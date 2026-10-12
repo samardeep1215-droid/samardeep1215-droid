@@ -36,7 +36,7 @@
 |  HOME      : Kasauli, Himachal Pradesh           |
 |  COLLEGE   : CGC University, Mohali (B.Tech CSE) |
 |  LEVEL     : National-Level Basketball Player    |
-|  POSITION  : [add position - Guard / Forward]    |
+|  POSITION  : Point Guard
 |  STYLE     : Discipline on court, clean code off |
 +--------------------------------------------------+
 ```
@@ -100,9 +100,9 @@ I play basketball at the national level and study Computer Science. Both come do
          '-------'
 ```
 
-- 🥇 **National-Level Basketball Player** [add tournament, year and result]
-- 🏅 [add state / district medals or awards]
-- 📜 [add certifications once completed]
+- 🥇 **National-Level Basketball Player** 
+- 🏅 
+- 📜 
 
 ---
 
